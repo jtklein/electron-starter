@@ -1,1 +1,1 @@
-# electron-starter
+# Inspector
